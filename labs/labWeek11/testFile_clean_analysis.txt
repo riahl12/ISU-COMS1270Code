@@ -1,0 +1,17 @@
+any 1
+characters 1
+cleaned 1
+file 1
+is 2
+it 1
+nonascii 1
+not 1
+properly 1
+see 1
+should 1
+test 1
+the 1
+this 1
+up 1
+when 1
+you 1
